@@ -62,8 +62,4 @@ Extracts, summarizes, and answers PDF content using local LLMs + Telegram bot in
 📍 Amman, Jordan  
 🤝 Open to collaboration, freelance, or a good AI meme!
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayan-joudeh&show_icons=true&theme=radical" />
-</p>
