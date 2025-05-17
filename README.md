@@ -7,9 +7,7 @@
   <a href="https://github.com/bayan-joudeh">👾 GitHub</a>
 </p>
 
-<p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B1F9&center=true&vCenter=true&width=450&lines=Building+Smart+Systems+with+Purpose;Learning+Something+New+Every+Day;Coffee%2C+Code%2C+Create!+%E2%98%95%F0%9F%92%A1)
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B1F9&center=true&vCenter=true&width=450&lines=Building+Smart+Systems+with+Purpose;Learning+Something+New+Every+Day;Coffee%2C+Code%2C+Create!+%E2%98%95%F0%9F%92%A1)
 
 
 ---
